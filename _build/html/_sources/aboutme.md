@@ -1,2 +1,5 @@
 # title denis 
-aboutme.md
+
+* lista1
+* lista2
+* lista3
